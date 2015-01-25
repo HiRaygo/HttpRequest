@@ -8,7 +8,7 @@ using System.Threading;
 
 namespace Test
 {
-   public class HTMLHelper
+   public class HttpHelper
     {
        /// <summary>
         /// 获取CooKie
